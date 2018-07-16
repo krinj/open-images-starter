@@ -72,7 +72,7 @@ python cmd_visualize_samples.py -i 0 -n 50
 
 ![](resources/e17acd05b631d330.jpg)
 
-![](/home/krin/production/open-images-starter/resources/df8a8403e4545ab5.jpg)
+![](resources/df8a8403e4545ab5.jpg)
 
 
 
