@@ -2,3 +2,4 @@ pyyaml
 opencv-python
 numpy
 matplotlib
+pillow

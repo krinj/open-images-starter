@@ -4,3 +4,9 @@
 settings\.yaml
 
 *.pyc
+
+output/
+
+samples/
+
+storage/
